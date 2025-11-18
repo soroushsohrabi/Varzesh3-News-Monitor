@@ -51,6 +51,4 @@ you can change the value inside the script --- nothing complicated.
     different parts of the site. The code isn't complicated, so tweaking
     it should be straightforward.
 
-## License
 
-MIT --- use it however you like.
